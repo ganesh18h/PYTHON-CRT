@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+c=int(input())
+total_seconds=a*b*c
+print("the total secoonds",total_seconds)

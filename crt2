@@ -1,0 +1,4 @@
+name=input()
+roll_number=int(input())
+branch=input()
+print("may name is:",name,"\nmy roll number:" ,roll_number ,"\nand branch is:" ,branch)

@@ -1,0 +1,3 @@
+name="ganes h"
+lower_case=name.lower()
+print(lower_case)
